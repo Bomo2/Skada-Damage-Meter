@@ -44,6 +44,8 @@ Nicknames module :
 
 
 
-## TO-DO
+## Roadmap
 
-- Waiting your feedback so I can take account your wishes, bugs found etc. to keep improving the AddOn.
+- ~~DPS keeps dropping when Halion and BQL are dead~~ (fixed)
+- ~~Val'kyr overkilling in Lich King (H) encounter~~ (fixed) 
+- Bone Spike overkilling in Marrowgar encounter (in progress)
