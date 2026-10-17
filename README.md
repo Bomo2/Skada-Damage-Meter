@@ -28,7 +28,7 @@ Nicknames module :
    
 ## Installation
 
-1. Download the [latest version](https://github.com/Bomo2/Skada-1.8.88/releases/download/2026-05-10/Skada.zip) and dezip it.
+1. Download the [latest version](https://github.com/Bomo2/Skada-Damage-Meter/releases/download/1.8.88-r2/1.8.88-r2.7z) and dezip it.
       
 2. Place `Skada` inside your `Interface/AddOns` directory.
    
